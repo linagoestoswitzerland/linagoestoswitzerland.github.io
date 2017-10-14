@@ -2,3 +2,8 @@ h1 {color: #DF01A5}
 em {color: #088A85}
 p {color:#F7FE2E}
 h2 {color:#04B45F}
+body {background-color:#CECEF6}
+body{font-family: "Impact", Charcoal, sans-serif;}
+body{margin:0;
+	padding:0;}
+#content{width:75%;margin-top:25px;margin-left:auto;margin-right:auto;}
